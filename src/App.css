@@ -1,0 +1,10 @@
+.wrapData{
+  margin:50px;
+  font-size:14px;
+  text-align: center;
+}
+.App{
+  align-items: center;
+  justify-content: center;
+  margin-left: 450px;
+}
